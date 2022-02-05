@@ -25,31 +25,324 @@ Schedule of Reading and Writing
 
 \[It is crucial that you read the whole text (or as much as possible of a novel or longer work) **before** the date assigned so as to be prepared for class discussion and able to make decisions about your essay topic before meeting with the writing specialist.\]
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Part I. Classical comedy: the physics and metaphysics of error**{{< /td-colspan >}} |||
-| 2 | Aristophanes, _Lysistrata_ | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Aristophanes, _Lysistrata_ (cont.) {{< br >}}{{< br >}} Film screening: _Some Like It Hot_ {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Plautus, _The Brothers Manaechmus_ | &nbsp; |
-| 5 | Shakespeare, _The Comedy of Errors_ |  {{< br >}}{{< br >}} Essay 1 (3 pages) due after five days {{< br >}}{{< br >}} Library research workshop {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part II. Comic love: sex, violence, and instanity**{{< /td-colspan >}} |||
-| 6 |  {{< br >}}{{< br >}} Shakespeare, _The Taming of the Shrew_ {{< br >}}{{< br >}} Film screening: _Bringing Up Baby_ {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Shakespeare, _Twelfth Night_ | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Shakespeare, _Twelfth Night_ (cont.) {{< br >}}{{< br >}} Film screening: _Twelfth Night_ {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Molière, _The Misanthrope_ | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Behn, _The Rover_ {{< br >}}{{< br >}} Film screening: _Ridicule_ {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | Aphra Behn, _The Rover_ (cont.) | Essay 2 (7 pages) due after two days |
-| {{< td-colspan 3 >}}**Part III. Satire and wit in dark times**{{< /td-colspan >}} |||
-| 12-14 | Austen, _Pride and Prejudice_ | Essay 2 revision (7 pages) due after two days of Ses #14 |
-| 15-16 | Twain, _Pudd'nhead Wilson_ | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Wilde, _The Importance of Being Earnest_ {{< br >}}{{< br >}} Film screening _The Importance of Being Earnest_ {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Wilde, _The Importance of Being Earnest (cont.)_ | &nbsp; |
-| 19 | Final essay conferences | &nbsp; |
-| 20-21 | Calvino, _Cosmicomics_ | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Bechdel, _Fun Home_ {{< br >}}{{< br >}} Film screening _Modern Times_ {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | Bechdel, _Fun Home (cont.)_ | &nbsp; |
-| 24 | Conclusion | Essay 3 (10 pages) due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I. Classical comedy: the physics and metaphysics of error**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Aristophanes, _Lysistrata_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aristophanes, _Lysistrata_ (cont.)
+
+Film screening: _Some Like It Hot_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Plautus, _The Brothers Manaechmus_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _The Comedy of Errors_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Essay 1 (3 pages) due after five days
+
+Library research workshop
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II. Comic love: sex, violence, and instanity**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shakespeare, _The Taming of the Shrew_
+
+Film screening: _Bringing Up Baby_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _Twelfth Night_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shakespeare, _Twelfth Night_ (cont.)
+
+Film screening: _Twelfth Night_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Molière, _The Misanthrope_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Behn, _The Rover_
+
+Film screening: _Ridicule_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Aphra Behn, _The Rover_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 (7 pages) due after two days
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III. Satire and wit in dark times**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-14
+{{< tdclose >}}
+{{< tdopen >}}
+Austen, _Pride and Prejudice_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 revision (7 pages) due after two days of Ses #14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Twain, _Pudd'nhead Wilson_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wilde, _The Importance of Being Earnest_
+
+Film screening _The Importance of Being Earnest_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde, _The Importance of Being Earnest (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay conferences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+Calvino, _Cosmicomics_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bechdel, _Fun Home_
+
+Film screening _Modern Times_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Bechdel, _Fun Home (cont.)_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 (10 pages) due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Expectations
 -------------------
